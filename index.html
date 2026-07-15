@@ -5,14 +5,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>東アジア・トゥデイ｜East Asia Today</title>
 <meta name="description" content="日本と東アジアのニュースを、出典を明示して紹介・解説するメディアです。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@500;700;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<header class="site-header">
-  <a class="brand" href="index.html">東アジア・トゥデイ<span class="en">East Asia Today</span></a>
+<header>
+  <div class="masthead">
+    <a class="wordmark" href="index.html">東アジア・トゥデイ<span class="subtitle">East Asia Today</span></a>
+  </div>
+  <div class="masthead-rule"><div class="bar"></div></div>
   <nav class="site-nav">
-    <a href="index.html">トップ</a>
+    <a href="index.html" aria-current="page">トップ</a>
+    <a href="articles/index.html">記事一覧</a>
     <a href="about.html">運営者情報</a>
     <a href="editorial-policy.html">編集方針</a>
   </nav>
@@ -23,14 +30,54 @@
     日本と東アジアの出来事を、出典を明示しながら紹介・解説するニュースメディアです。
   </div>
 
-  <h2>新着記事</h2>
-  <div class="notice-empty">
-    現在、記事を準備中です。近日公開予定です。
+  <div class="empty-panel">
+    <h2>近日公開</h2>
+    <p>現在、記事を準備しています。公開までいましばらくお待ちください。</p>
+  </div>
+
+  <div class="section-heading">扱うテーマ</div>
+  <div class="category-grid">
+    <div class="category-card">
+      <span class="tag">台湾</span>
+      <h3>台湾</h3>
+      <p>政治・外交・社会の動き</p>
+    </div>
+    <div class="category-card">
+      <span class="tag">中国</span>
+      <h3>中国</h3>
+      <p>政治・経済・国際関係</p>
+    </div>
+    <div class="category-card">
+      <span class="tag">韓国</span>
+      <h3>韓国</h3>
+      <p>政治・社会・日韓関係</p>
+    </div>
+    <div class="category-card">
+      <span class="tag">東南アジア</span>
+      <h3>東南アジア</h3>
+      <p>ASEAN諸国の動向</p>
+    </div>
+    <div class="category-card">
+      <span class="tag">日本</span>
+      <h3>日本</h3>
+      <p>東アジア関連の国内報道</p>
+    </div>
+    <div class="category-card">
+      <span class="tag">オピニオン</span>
+      <h3>オピニオン</h3>
+      <p>実名署名による分析・論考</p>
+    </div>
   </div>
 </main>
 
 <footer class="site-footer">
-  <p>運営：株式会社クラスターワン ｜ <a href="about.html">運営者情報</a> ｜ <a href="editorial-policy.html">編集方針</a></p>
+  <p>運営：株式会社クラスターワン</p>
+  <p class="links">
+    <a href="index.html">トップ</a>
+    <a href="articles/index.html">記事一覧</a>
+    <a href="about.html">運営者情報</a>
+    <a href="editorial-policy.html">編集方針</a>
+  </p>
 </footer>
 
 </body>
