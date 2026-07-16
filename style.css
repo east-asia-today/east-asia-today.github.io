@@ -276,6 +276,9 @@ th {
   border: 1px solid var(--gray-200);
   border-top: 3px solid var(--ink-2);
   padding: 18px 18px 20px;
+  display: block;
+  text-decoration: none;
+  color: inherit;
 }
 .category-card .tag {
   display: inline-block;

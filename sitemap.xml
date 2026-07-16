@@ -11,6 +11,56 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://east-asia-today.github.io/articles/index2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/index3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/index4.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/index5.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/category-taiwan.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/category-china.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/category-korea.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/category-southeast-asia.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/category-japan.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/category-opinion.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://east-asia-today.github.io/articles/taiwan-japan-relations-20260715.html</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -264,6 +314,42 @@
   </url>
   <url>
     <loc>https://east-asia-today.github.io/articles/myanmar-trade-2024.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/taiwan-tourism-incentive-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/japan-rapidus-support-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/hongkong-ipo-h1-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/malaysia-datacenter-2030.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/taiwan-aging-society-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/vietnam-tourism-h1-2026.html</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
