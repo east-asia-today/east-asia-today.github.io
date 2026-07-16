@@ -149,6 +149,30 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://east-asia-today.github.io/articles/china-ev-export-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/tsmc-kumamoto-3nm-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/taiwan-population-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/cambodia-laos-corridor-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://east-asia-today.github.io/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
