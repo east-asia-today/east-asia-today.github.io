@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://east-asia-today.github.io/sitemap.xml
+Sitemap: https://eastasiatoday.com/sitemap.xml
