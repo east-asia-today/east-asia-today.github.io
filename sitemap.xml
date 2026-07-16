@@ -245,6 +245,30 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://east-asia-today.github.io/articles/taiwan-renewable-energy-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/korea-startup-funding-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/china-ev-charging-2026.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://east-asia-today.github.io/articles/myanmar-trade-2024.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://east-asia-today.github.io/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
